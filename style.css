@@ -1,0 +1,40 @@
+body    {
+    background-color: #777;
+    width: 960px;
+    margin: auto;
+}
+
+section {
+    background-color: #ebebeb;
+    width: 247.5px;
+    text-align: center;
+    margin: auto;
+    float: left;
+}
+header  {
+    background-color: #ebebeb;
+    text-align: center;
+    margin: auto;
+    width: 495px;
+}
+
+nav  {
+    background-color: #ebebeb;
+    text-align: center;
+    margin: auto;
+    width: 495px;
+}
+
+aside  {
+    background-color: #ebebeb;
+    text-align: center;
+    width: 247.5px;
+    margin: auto;
+}
+footer  {
+    background-color: #ebebeb;
+    text-align: center;
+    margin: auto;
+    width: 495px;
+    clear: left;
+}
